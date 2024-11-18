@@ -1,4 +1,4 @@
-# CTEC3905 Assignment – Dual Chase //
+# CTEC3905 Assignment – VX PORTFOLIO //
 ![Image description](SG.png)
 
 Welcome to my Portfolio Website.
